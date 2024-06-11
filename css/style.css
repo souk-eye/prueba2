@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+:root{
+	--menu-hover:#cd9b33;
+	--color-general:#;
+	--color-titulos:#;
+}
+body{
+	font-size: 12px;
+	color: #2B2B2B;
+}
+
+h1{
+	font-family: "Kaushan Script", cursive;
+	margin: 0px 0px 0px;
+	padding:10px 0px;
+	color: #000;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+h3{ 
+	font-family: "Lora", serif;
+	color: #000;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0px 0px 30px;
+	font-size: 35px;
+}
+
+header{
+	background-color: #fff;
+	padding: 5px 0;
+	box-shadow: 0px 0px 5px 10px #f2f2f2;
+}
+footer #copyright{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+
+footer{
+	background-color: #22202e;
+	color: #CCC;
+	padding: 45px 0px 4px;
+	text-align: center;
+}
+
+footer h3{
+	color: #FFFFFF;
+	font-size: 20px;
+	
+}
+
+footer p{
+	color: #FFFFFF;
+	
+}
+
+p{
+	
+	font-family: "Lora", serif;
+	font-size: 14px;
+	font-weight: 350;
+	color: #252525;
+	
+}
+
+#hero .btn{
+	font-family: "Lora", serif;
+	border-radius: 0px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 12px 30px;
+}
+
+
+.btn-primary{
+	font-family: "Lora", serif;
+	background-color:white;
+	color: #000000; 
+	border-color: #cd9b33;
+	padding: 1px 70px;
+	border-radius: 100px;
+	margin: 20px 40%; 
+	
+	
+}
+
+.btn:hover{
+	font-family: "Lora", serif;
+	background-color:rgba(199,152,0,1.00);
+	color: #fff;
+	font-weight: 300;
+	
+}
+
+.delicieux {
+  font-size: 24px;
+  margin: 3%;
+	text-align: center;
+}
+
+.delicieux h2 {
+	font-family: "Lora", serif;
+  font-size: 24px;
+  margin: 8%;
+}
+
+.intro {
+	font-family: "Lora", serif;
+
+	text-align: center;
+	padding: 100px 0px;
+	color: #FFF;	
+	
+}
+
+
+.intro h3 {
+	font-family: "Lora", serif;
+	color: #000;
+	text-align: center;
+	font-size: 14px;
+}
+
+.intro p {
+	font-family: "Lora", serif;
+	color: #000;
+	text-align: center;
+	font-size: 14px;
+}
+
